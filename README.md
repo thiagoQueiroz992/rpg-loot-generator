@@ -1,0 +1,2 @@
+# rpg-loot-generator
+ata
